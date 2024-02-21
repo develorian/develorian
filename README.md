@@ -4,9 +4,9 @@
 
 ## Hola Develorians 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)]([https://twitter.com/Develorian_])
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Develorian_?style=social)]([https://twitter.com/Develorian_])
+![GitHub Followers](https://img.shields.io/github/followers/develorian?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/develorian?style=social)
 
 
 

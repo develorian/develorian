@@ -4,11 +4,16 @@
 
 ## Hola Develorians 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Develorian_?style=social)]([https://twitter.com/Develorian_])
+Soy un entusiasta de la programación y el desarrollo web, actualmente estoy aprendiendo sobre esta rama tan increible.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Develorian_?style=social)](https://twitter.com/Develorian_)
 ![GitHub Followers](https://img.shields.io/github/followers/develorian?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/develorian?style=social)
 
+## Redes sociales:
 
+[![Twitter](https://img.shields.io/badge/Twitter-@Develorian_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Develorian_)
+[![Facebook](https://img.shields.io/badge/Facebook-@Develorian-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Develorian)
 
 
 
